@@ -16,10 +16,10 @@ composer create-project iftakharalamrizve/framework-ifos proejct-name
 ```
 
 ## .env configuration 
-Create project with composer using the following command:
+Copy .env.example as .env 
 
 ```
-cp .env.example .env
+copy .env.example .env
 ```
 
 ```
